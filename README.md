@@ -4,7 +4,7 @@
 Burger Application is an application that allows users to enter in any sort of burger they would like to eat. From there, the user can chose to 'Devour it' and it will move the burger from the left side of the application to the right. 
 
 ## Demo
-![App Demo](https://github.com/clf9008](https://github.com/clf9008)
+![App Demo](https://github.com/clf9008/BurgerAPP/blob/main/public/assets/images/Eat-da-burger.gif)
 
 
 ## Table of Contents
