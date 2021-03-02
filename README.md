@@ -37,6 +37,10 @@ Dependencies:
 
 ## Questions
 
+## Application Demo
+
+[App Demo](https://github.com/clf9008/BurgerAPP/blob/main/public/assets/images/Eat-da-burger.gif)
+
 - For any questions related to this applicaiton, please contact me at: clf9008@gmail.com
 
 - Please use this link to access my Github Profile: [https://github.com/clf9008](https://github.com/clf9008)
